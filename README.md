@@ -9,3 +9,5 @@
 </pre>
 <br><br>
 </h3>
+
+![maxwell-maxwell-spin](https://github.com/user-attachments/assets/5e0f582e-b1c6-401c-933f-010be505019c)
